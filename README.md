@@ -60,4 +60,3 @@ I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehalrt087&theme=react-dark"/>
 </p>
-
