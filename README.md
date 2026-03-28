@@ -15,7 +15,7 @@ I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, 
 <h2>🚀 Technical Skills</h2>
 
 <h3>💻 Languages</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"/> Java
 </a>
