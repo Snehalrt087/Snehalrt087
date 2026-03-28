@@ -1,8 +1,14 @@
-Hi 👋 My name is Snehal Thorat
-==============================
+<h1 align="center">Hi 👋, I'm Snehal Thorat</h1>
+<h3 align="center">💻 Full Stack Developer | Spring Boot • React • MySQL</h3>
 
-Software Developer
-------------------
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real+World+Applications;Spring+Boot+%7C+React+%7C+MySQL;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snehalrt087&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 
 I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, and MySQL, focused on creating scalable and user-friendly web applications. I enjoy solving real-world problems through clean code and efficient system design.
 
@@ -57,6 +63,19 @@ I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, 
   </a>
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehalrt087&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehalrt087&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Snehalrt087&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehalrt087&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<!-- SMALL GRAPH -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehalrt087&theme=react-dark&height=250"/>
 </p>
