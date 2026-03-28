@@ -12,61 +12,34 @@ I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, 
 * 💡 Currently working on: Mazisheti – Smart Farming Solution
 * 🎯 Goal: To become a high-level backend developer
 
-<h2>🚀 Technical Skills</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<h3>💻 Languages</h3>
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/> Java
-</a>
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/> Python
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36"/> C++
-</a>
+<!-- LANGUAGES -->
+
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
 </p>
 
-<hr width="40%" align="left">
+<!-- FRAMEWORKS -->
 
-<h3>⚙️ Frameworks & Tools</h3>
-<p align="left">
-<a href="https://spring.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36"/> Spring Boot
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/> Git
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/> VS Code
-</a>
+<h3 align="center">⚙️ Frameworks & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,git,vscode" />
 </p>
 
-<hr width="40%" align="left">
+<!-- FRONTEND -->
 
-<h3>🌐 Frontend</h3>
-<p align="left">
-<a href="#">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"/> HTML
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/> CSS
-</a>
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36"/> React
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36"/> Tailwind
-</a>
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
 </p>
 
-<hr width="40%" align="left">
+<!-- DATABASE -->
 
-<h3>🗄️ Database</h3>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/> MySQL
-</a>
+<h3 align="center">🗄️ Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ## 📄 Know about my experiences
