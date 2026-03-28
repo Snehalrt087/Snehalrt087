@@ -71,9 +71,8 @@ I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehalrt087&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehalrt087&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </p>
-
 <!-- SMALL GRAPH -->
 
 <p align="center">
