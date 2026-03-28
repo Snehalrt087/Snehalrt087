@@ -56,3 +56,8 @@ I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, 
     <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehalrt087&theme=react-dark"/>
+</p>
+
