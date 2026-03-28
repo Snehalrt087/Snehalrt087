@@ -75,9 +75,24 @@ I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, 
 
 <p align="left"> <a href="https://github.com/Snehalrt087" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/snehal-thorat-718b7636b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-#Resume
+## 📄 Resume
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Snehalrt087/Snehalrt087/main/Snehal_Thorat_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-green?style=for-the-badge&logo=readthedocs"/>
+  </a>
+
+  <a href="https://raw.githubusercontent.com/Snehalrt087/Snehalrt087/main/Snehal_Thorat_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
+</p>
+
+---
+
+### 👇 Resume Preview
+
 <p align="center">
   <a href="https://raw.githubusercontent.com/Snehalrt087/Snehalrt087/main/Snehal_Thorat_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader"/>
+    <img src="https://img.icons8.com/color/480/resume.png" width="120"/>
   </a>
 </p>
