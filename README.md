@@ -78,21 +78,14 @@ I’m a Full-Stack Developer with hands-on experience in Spring Boot, React.js, 
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Snehalrt087/Snehalrt087/main/Snehal_Thorat_Resume.pdf" target="_blank">
+  <!-- VIEW BUTTON -->
+  <a href="https://github.com/Snehalrt087/Snehalrt087/blob/main/Snehal_Thorat_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-green?style=for-the-badge&logo=readthedocs"/>
   </a>
 
-  <a href="https://raw.githubusercontent.com/Snehalrt087/Snehalrt087/main/Snehal_Thorat_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader"/>
-  </a>
-</p>
+  <!-- DOWNLOAD BUTTON -->
 
----
-
-### 👇 Resume Preview
-
-<p align="center">
   <a href="https://raw.githubusercontent.com/Snehalrt087/Snehalrt087/main/Snehal_Thorat_Resume.pdf">
-    <img src="https://img.icons8.com/color/480/resume.png" width="120"/>
+    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader"/>
   </a>
 </p>
